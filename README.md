@@ -23,3 +23,5 @@ https://math.stackexchange.com/questions/1606372/how-to-derive-the-posterior-pre
 https://rpubs.com/FJRubio/BetaBinomialPred
 
 (where is the link?) - See page 7 (last) for posterior predictive distribution for binomial.
+
+Incorporating prior beliefs - see example 9.1 in https://www.probabilitycourse.com/chapter9/9_1_0_bayesian_inference.php
